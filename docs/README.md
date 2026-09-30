@@ -1,7 +1,7 @@
-# [Nombre del emprendimiento] — Sitio web
+# [Lash Beauty] — Sitio web
 
-[Descripción del emprendimiento en una o dos líneas.]
-Incluye landing, blog y prototipo de tienda online.
+[En Lash Beauty realzamos tu mirada con extensiones de pestañas personalizadas, pensadas para destacar tu belleza y hacerte sentir increíble.]
+
 
 > Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
 > Instrucciones y guías: [evaluacion/](evaluacion/README.md)

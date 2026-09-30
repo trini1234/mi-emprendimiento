@@ -6,7 +6,7 @@
 
 <!-- Imagen: guárdala en docs/img/ y enlázala así: ![Avatar](img/nombre.png) -->
 
-**[Nombre], [edad] años.** [Ocupación].
+**[Sofia], [21] años.** [Estudiante y joven trabajadora].
 
 > "[Frase que la represente]"
 

@@ -1,4 +1,4 @@
-# Brief — [Nombre del emprendimiento]
+# Brief — [Lash Beauty]
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
@@ -23,4 +23,5 @@ Lash Beauty ofrece extensiones de pestañas personalizadas y de calidad, adaptad
 
 | Marca | Qué hace bien |
 |---|---|
-| | |
+| The Lash Lounge | Clasifica claramente los tipos de extensiones (clásicas, híbridas, volumen ruso) con fotografías comparativas de antes y después, además de guías de cuidado en su blog |
+| Oh My Lash! | Presenta una ficha detallada para cada servicio con duración, precios transparentes y botones visibles para agendar rápidamente por WhatsApp |
