@@ -1,4 +1,4 @@
-# Proto-persona — [Nombre del emprendimiento]
+# Proto-persona — Lash Beauty
 
 > Guía: [Proto-persona](../evaluacion/guias/fase-1-requerimientos/02-proto-persona.md)
 
