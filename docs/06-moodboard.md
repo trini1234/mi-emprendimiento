@@ -4,7 +4,7 @@
 
 **Tablero en Whimsical:** https://whimsical.com/duocuc91/Nv9J6dfGZdDFiaVf6qMvhW
 
-<!-- Captura: guárdala en docs/img/ y enlázala así: ![Moodboard](img/moodboard.png) -->
+![Moodboard](img/moodboard.jpg.png) 
 
 ## Palabras clave
 
