@@ -4,15 +4,25 @@
 
 ## Proto-persona principal
 
-<!-- Imagen: guárdala en docs/img/ y enlázala así: ![Avatar](img/nombre.png) -->
+  ![Avatar](img/persona.jpg)-->
 
 **[Sofia], [21] años.** [Estudiante y joven trabajadora].
 
-> "[Frase que la represente]"
+
+“Una joven que lucha por sus sueños, se esfuerza cada día por salir adelante y encuentra en la belleza una forma de expresar quién es.”
 
 ### Comportamientos
-“Una joven que lucha por sus sueños, se esfuerza cada día por salir adelante y encuentra en la belleza una forma de expresar quién es.”
--
+Responsable: organiza su tiempo entre estudios y trabajo.
+
+Trabajadora: se esfuerza por alcanzar sus metas.
+
+Cuida su imagen: le gusta probar productos y tendencias de belleza.
+
+Ahorrativa: compara precios antes de comprar.
+
+Perseverante: busca superarse y aprender cosas nuevas.
+
+Digital: utiliza redes sociales para buscar inspiración y recomendaciones de belleza.
 
 ### Necesidades
 Económicas: ahorrar y administrar su dinero.
@@ -29,7 +39,7 @@ Tiempo: equilibrar estudios, trabajo y vida personal.
 
 Emocionales: sentirse motivada y apoyada.
 
--
+
 
 ### Motivaciones
 Superación personal: cumplir sus metas y sueños.
@@ -46,7 +56,7 @@ Autoestima: sentirse segura y confiada.
 
 Bienestar personal: encontrar equilibrio entre el trabajo, los estudios y su vida personal.
 
--
+
 
 ### Frustraciones
 Falta de tiempo: no poder equilibrar estudios, trabajo y vida personal.
@@ -63,6 +73,6 @@ Cansancio: sentirse agotada por sus responsabilidades.
 
 Metas: frustrarse cuando no logra avanzar como quisiera.
 
--
+
 
 <!-- Segunda proto-persona (opcional): copia la estructura de arriba. -->
