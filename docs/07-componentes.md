@@ -18,3 +18,5 @@
 | Galería de resultados / Instagram | Feed de Instagram con fotos de ojos con pestañas y collage de resultados | Cuadrícula de fotos reales de clientas y enlace a Instagram | Confiar en la calidad al ver resultados reales |
 | Tarjeta de artículo (blog) | Imagen "Bright Eyes" con tipografía cursiva y afiche "Tu mirada, siempre impecable" | Imagen, categoría, título, resumen, botón "Leer más" y botones para compartir | Aprender a aplicar y cuidar sus pestañas con consejos fáciles de seguir |
 | Footer | Paleta rosa pastel, beige y negro con el logo "Lash Beauty" | Logo, enlaces a Contacto, Preguntas frecuentes, Términos y Privacidad, redes sociales y botón de WhatsApp | Resolver dudas, confiar en la marca y contactarla fácilmente |
+
+![Avatar](img/moodboard.jpg.png)
