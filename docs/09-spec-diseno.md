@@ -11,7 +11,7 @@ La spec de diseño tiene dos partes:
 
 > Guía de wireframes: [Wireframes](../evaluacion/guias/fase-2-specs/04-wireframes.md)
 
-![Wireframes](img/wireframes.png) --> 
+![Wireframes](img/moodboard.jpg.png)
 
 ## Pantallas
 
